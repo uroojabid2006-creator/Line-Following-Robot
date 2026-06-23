@@ -144,7 +144,7 @@ Planned enhancements include:
 ## 📸 Project Preview
 
 <img width="233" height="299" alt="image" src="https://github.com/user-attachments/assets/69774520-9bca-41b7-8c8d-7d74c77a68be" />
-<img width="624" height="420" alt="image" src="https://github.com/user-attachments/assets/bbdfb7dc-d8b5-4416-9450-82576e55a502" />
+
 
 ---
 
